@@ -1,0 +1,19 @@
+body{
+    background-color: ghostwhite;
+}
+
+.MuiPaper-root{
+    background-color: white;
+    border-style: solid;
+    box-shadow: 4px 8px 7px 0px;
+    border-width: 2px;
+    text-align: center;
+}
+
+.Image{
+    width: 50vh;
+}
+
+.ImageContainer{
+    text-align: center;
+}
