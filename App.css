@@ -19,3 +19,7 @@ body{
 .ImageContainer{
     text-align: center;
 }
+
+.EmptyBlock{
+    height:33vh;
+}
